@@ -1,0 +1,84 @@
+.modal {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .modal-overlay {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  .modal-content {
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+    position: relative;
+    z-index: 10;
+    padding: 30px;
+  }
+  .modal-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 100rem;
+    color: white;
+    background-color: #eee;
+    padding: 5px;
+    transform: translate(50%, -50%);
+  }
+  .modal-main {
+    overscroll-behavior-y: contain;
+    padding: 20px 20px;
+}
+ body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	margin: 20px 0;
+}
+
+label {
+	font-weight: bold;
+}
+
+textarea {
+    margin: 10px 0;
+	width: 100%;
+	font-size: 16px;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+	background-color: #45a049;
+}
+
+#result {
+	margin-top: 20px;
+	padding: 10px;
+	font-size: 16px;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+}
