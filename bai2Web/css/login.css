@@ -1,0 +1,172 @@
+.hiden {
+  display: none;
+}
+
+.account {
+  height: 120vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.account-list {
+  width: 500px;
+}
+.account-list.active {
+  display: none;
+}
+.account-list-desc {
+  text-align: center;
+}
+.account-list-desc h3 {
+  font-size: 4rem;
+}
+.account-list-desc p {
+  font-size: 2rem;
+  margin: 3rem 0;
+  color: #31306b;
+}
+.account-list-form form input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 2rem;
+  border: 1px solid #000;
+  margin: 1rem 0;
+}
+.account-list-form form .forgot-password {
+  float: right;
+  font-size: 2rem;
+}
+.account-list-form form .forgot-position {
+  position: relative;
+}
+.account-list-form form .eye-password {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+.account-list .account-center {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+.account-recover {
+  width: 0;
+  text-align: center;
+  visibility: hidden;
+  opacity: 0;
+  transform: matrix(1, 0, 0, 1, 0, 50);
+  transition: transform 2s, opacity 2s;
+}
+.account-recover.active {
+  width: 500px;
+  visibility: inherit;
+  opacity: 1;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.account-recover-desc h3 {
+  font-size: 3rem;
+}
+.account-recover-desc p {
+  font-size: 1.8rem;
+  margin: 3rem 0;
+  color: #31306b;
+}
+.account-recover-form input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 2rem;
+  border: 1px solid #000;
+  margin: 1rem 0;
+}
+.account-recover .account-center {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+.account-signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account-signup-list {
+  width: 0;
+  visibility: hidden;
+  opacity: 0;
+  transform: matrix(1, 0, 0, 1, 0, 50);
+  transition: transform 2s, opacity 2s;
+}
+.account-signup-list.active {
+  width: 450px;
+  visibility: inherit;
+  opacity: 1;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.account-signup-list-desc {
+  text-align: center;
+}
+.account-signup-list-desc h3 {
+  font-size: 3.5rem;
+}
+.account-signup-list-desc p {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+.account-signup-list-form form label {
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 1.3rem;
+}
+.account-signup-list-form form label input {
+  width: 100%;
+  padding: 1.3rem;
+}
+
+.account-password {
+  margin-top: 2rem;
+  position: relative;
+  display: inline-block;
+  padding: 1.3rem;
+  line-height: normal;
+  border: 1px solid transparent;
+  border-radius: 0;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.2em;
+  width: 100%;
+  font-size: 1.7rem;
+  border: 1px solid #000;
+  background-color: transparent;
+  transition: color 0.45s cubic-bezier(0.785, 0.135, 0.15, 0.86), border 0.45s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+  z-index: 1;
+  -webkit-tap-highlight-color: initial;
+}
+.account-password::before {
+  position: absolute;
+  content: "";
+  display: block;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  transform: scale(1, 1);
+  z-index: -1;
+  transition: transform 3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.account-password:hover::before {
+  background-color: #fff;
+}
+
+.button-primary {
+  color: #fff;
+  border-color: #000;
+}
+.button-primary::before {
+  content: "";
+  background-color: #000;
+}
+.button-primary:hover {
+  color: #000;
+}/*# sourceMappingURL=login.css.map */

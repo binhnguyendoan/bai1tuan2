@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Terrain Shirt Jacket",
+        "name1": 
+        "Washed black",
+        "price": "$104.97",
+        "image1": "img/product1.webp",
+        "image2":"img/product2.webp"
+    },
+    {
+        "id": 2,
+        "name": "Hampton Linen Shirt",
+        "name1": 
+        "PINK SAND",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/HAMPTONLINENSHIRT-PINKSAND-B_600x.jpg?v=1689207531",
+        "image2":"https://academybrand.com/cdn/shop/files/HAMPTONLINENSHIRT-PINKSAND-A_600x.jpg?v=1689207531"
+    },
+    {
+        "id": 3,
+        "name": "Hampton Linen Shirt",
+        "name1": 
+        "SANDSTORM BROWN",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/HAMPTONLINENSHIRT-SANDSTORMBROWN-B_600x.jpg?v=1689207534",
+        "image2":"https://academybrand.com/cdn/shop/files/HAMPTONLINENSHIRT-SANDSTORMBROWN-A_600x.jpg?v=1689207534"
+    },
+    {
+        "id": 4,
+        "name": "Rory Linen Shirt",
+        "name1": 
+        "SNAVY",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/RORYLINENSHIRT-NAVY_600x.jpg?v=1690418644",
+        "image2":"https://academybrand.com/cdn/shop/files/RORYLINENSTRIPESHIRT-NAVY-B_600x.jpg?v=1690418644"
+    },
+    {
+        "id": 5,
+        "name": "Essential Overshirt",
+        "name1": 
+        "OFF WHITE",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-OFFWHITE_600x.jpg?v=1690418433",
+        "image2":"https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-OFFWHITE-B_600x.jpg?v=1690418433"
+    },
+    {
+        "id": 6,
+        "name": "Essential Overshirt",
+        "name1": 
+        "PEARL BLUE",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-PEARLBLUE_600x.jpg?v=1690418562",
+        "image2":"https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-PEARLBLUE-A_600x.jpg?v=1690418562"
+    },
+    {
+        "id": 7,
+        "name": "Essential Overshirt",
+        "name1": 
+        "SANDSTORM BROWN",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-SANDSTORMBROWN-C_600x.jpg?v=1689209982",
+        "image2":"https://academybrand.com/cdn/shop/files/ESSENTIALOVERSHIRT-SANDSTORMBROWN-A_600x.jpg?v=1689209982"
+    },
+    {
+        "id": 8,
+        "name": "Riley Knit Polo",
+        "name1": 
+        "WARM SAND",
+        "price": "$89.95",
+        "image1": "https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-WARMSAND-B_600x.jpg?v=1689310411",
+        "image2":"https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-WARMSAND-A_600x.jpg?v=1689310411"
+    },   
+    {
+        "id": 9,
+        "name": "Riley Knit Polo",
+        "name1": 
+        "PEARL BLUE",
+        "price": "$89.95",
+        "image1": "https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-PEARLBLUE_600x.jpg?v=1690418611",
+        "image2":"https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-PEARLBLUE-B_600x.jpg?v=1690418611"
+    },
+    {
+        "id": 10,
+        "name": "Riley Knit Polo",
+        "name1": 
+        "OFF WHITE",
+        "price": "$89.95",
+        "image1": "https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-OFFWHITE-B_600x.jpg?v=1689207374",
+        "image2":"https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-OFFWHITE-A_600x.jpg?v=1689207374"
+    },
+    {
+        "id": 11,
+        "name": "Hampton Linen Shirt",
+        "name1": 
+        "SANDSTORM BROWN",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-NAVY-B_600x.jpg?v=1689552958",
+        "image2":"https://academybrand.com/cdn/shop/files/RILEYKNITPOLO-NAVY-A_600x.jpg?v=1689552958"
+    },
+    {
+        "id": 12,
+        "name": "Vintage Oxford Shirt",
+        "name1": 
+        "PEARL BLUE STRIPE",
+        "price": "$89.95",
+        "image1": "https://academybrand.com/cdn/shop/files/VINTAGEOXFORDSHIRT-PEARLBLUESTRIPE-B_600x.jpg?v=1689560869",
+        "image2":"https://academybrand.com/cdn/shop/files/VINTAGEOXFORDSHIRT-PEARLBLUESTRIPE-A_600x.jpg?v=1689560869"
+    },
+    {
+        "id": 13,
+        "name": "Varsity Sweat Short",
+        "name1": 
+        "WARM SAND",
+        "price": "$59.95",
+        "image1": "https://academybrand.com/cdn/shop/files/VARSITYSHORT-WARMSAND-D_600x.jpg?v=1690352581",
+        "image2":"https://academybrand.com/cdn/shop/files/VARSITYSHORT-WARMSAND-A_600x.jpg?v=1690352581"
+    },
+    {
+        "id": 14,
+        "name": "Vintage Oxford Shirt",
+        "name1": 
+        "SEASPRAY GREEN",
+        "price": "$89.95",
+        "image1": "https://academybrand.com/cdn/shop/files/VINTAGEOXFORDSHIRT-SEASPRAYGREEN-B_600x.jpg?v=1689561161",
+        "image2":"https://academybrand.com/cdn/shop/files/VINTAGEOXFORDSHIRT-SEASPRAYGREEN-A_600x.jpg?v=1689561161"
+    },
+    {
+        "id": 15,
+        "name": "Varsity Sweat Short",
+        "name1": 
+        "WHITE",
+        "price": "$59.95",
+        "image1": "https://academybrand.com/cdn/shop/files/VARSITYSHORT-WHITE-C_600x.jpg?v=1690352576",
+        "image2":"https://academybrand.com/cdn/shop/files/VARSITYSHORT-WHITE-A_600x.jpg?v=1690352576"
+    },
+    {
+        "id": 16,
+        "name": "Varsity Sweat Short",
+        "name1": 
+        "HARBOUR BLUE",
+        "price": "$99.95",
+        "image1": "https://academybrand.com/cdn/shop/files/VARSITYSHORT-OXFORDHEATHER-D_600x.jpg?v=1690352572",
+        "image2":"https://academybrand.com/cdn/shop/files/RORYLINENSTRIPESHIRT-NAVY-B_600x.jpg?v=1690418644"
+    }
+
+
+
+]
